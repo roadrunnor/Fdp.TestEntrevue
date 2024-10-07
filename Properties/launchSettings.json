@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Fdp.TestEntrevue": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Employee.txt Pascal"
+    }
+  }
+}
